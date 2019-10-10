@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f93a93a4-838d-4663-9cbe-432efb75f2c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +44,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,7 +101,8 @@
       <workItem from="1570500556266" duration="5612000" />
       <workItem from="1570670967449" duration="2640000" />
       <workItem from="1570678011974" duration="7461000" />
-      <workItem from="1570690085647" duration="3769000" />
+      <workItem from="1570690085647" duration="4238000" />
+      <workItem from="1570749118087" duration="1129000" />
     </task>
     <task id="LOCAL-00001" summary="ㅅㄷㄴㅅ">
       <created>1570684152315</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570692295716</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Get Customers Rest API">
+      <created>1570694711458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570694711458</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +180,7 @@
     <MESSAGE value="Create Commit Message" />
     <MESSAGE value="Apply Material Ui" />
     <MESSAGE value="Add Node.js Express Server Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Node.js Express Server Module" />
+    <MESSAGE value="Add Get Customers Rest API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Get Customers Rest API" />
   </component>
 </project>
