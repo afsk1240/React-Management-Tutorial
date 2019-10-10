@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f93a93a4-838d-4663-9cbe-432efb75f2c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Customer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Customer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Customer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +94,7 @@
       <updated>1570500553270</updated>
       <workItem from="1570500556266" duration="5612000" />
       <workItem from="1570670967449" duration="2640000" />
-      <workItem from="1570678011974" duration="5142000" />
+      <workItem from="1570678011974" duration="6291000" />
     </task>
     <task id="LOCAL-00001" summary="ㅅㄷㄴㅅ">
       <created>1570684152315</created>
@@ -101,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570684152315</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create Commit Message">
+      <created>1570686094141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570686094141</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ㅅㄷㄴㅅ" />
-    <option name="LAST_COMMIT_MESSAGE" value="ㅅㄷㄴㅅ" />
+    <MESSAGE value="Create Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Commit Message" />
   </component>
 </project>
