@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="f93a93a4-838d-4663-9cbe-432efb75f2c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/CustmerAdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/CustmerAdd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/CustomerDelete.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/CustomerDelete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +128,7 @@
       <workItem from="1571710787327" duration="608000" />
       <workItem from="1571794627172" duration="7268000" />
       <workItem from="1571879332485" duration="222000" />
-      <workItem from="1571879579260" duration="2509000" />
+      <workItem from="1571879579260" duration="5402000" />
     </task>
     <task id="LOCAL-00001" summary="ㅅㄷㄴㅅ">
       <created>1570684152315</created>
@@ -187,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571817638752</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add Material UI Design for Add/Delete">
+      <created>1571882588524</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571882588524</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +237,8 @@
     <MESSAGE value="Add Get Customers Rest API" />
     <MESSAGE value="Implement Customer Add Module" />
     <MESSAGE value="Add Customer Delete Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Customer Delete Module" />
+    <MESSAGE value="Add Material UI Design for Add/Delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Material UI Design for Add/Delete" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
